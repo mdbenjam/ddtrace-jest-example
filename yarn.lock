@@ -1074,10 +1074,9 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-dd-trace@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/dd-trace/-/dd-trace-2.5.0.tgz#69086c995e68535741c625444b05995f9b618d1e"
-  integrity sha512-w/SPQwT0axDGYurpDRiA2M89B9ndK3/t+CL6S4vdbcULt2CiATTeww7aUiLVv319likv1hg2kkW4ZcAQLoml8Q==
+"dd-trace@git+https://github.com/mdbenjam/dd-trace-js#5b3e8d738b603bf8a28f3f9f6238e35a88a6c55a":
+  version "3.0.0-pre"
+  resolved "git+https://github.com/mdbenjam/dd-trace-js#5b3e8d738b603bf8a28f3f9f6238e35a88a6c55a"
   dependencies:
     "@datadog/native-appsec" "^1.0.1"
     "@datadog/native-metrics" "^1.1.0"

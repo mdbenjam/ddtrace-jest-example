@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mdbenjam/ddtrace-jest-example#readme",
   "devDependencies": {
-    "dd-trace": "^2.5.0",
+    "dd-trace": "git+https://github.com/mdbenjam/dd-trace-js#5b3e8d738b603bf8a28f3f9f6238e35a88a6c55a",
     "jest": "^27.5.1"
   }
 }
