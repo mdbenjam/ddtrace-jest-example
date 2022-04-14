@@ -1,0 +1,23 @@
+{
+  "name": "ddtrace-jest-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbenjam/ddtrace-jest-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbenjam/ddtrace-jest-example/issues"
+  },
+  "homepage": "https://github.com/mdbenjam/ddtrace-jest-example#readme",
+  "devDependencies": {
+    "dd-trace": "^2.5.0",
+    "jest": "^27.5.1"
+  }
+}
